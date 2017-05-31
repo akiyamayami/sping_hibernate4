@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="criteria.cfg.xml/Hibernate" uuid="1827854b-b251-442c-9920-c514fd88807f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="persistence-mysql" uuid="682d5593-eb84-43dc-ab79-657d07582548">
+      <database-info product="MySQL" version="5.7.18-0ubuntu0.17.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.40 ( Revision: 402933ef52cad9aa82624e80acbea46e3a701ce6 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <user-name>root</user-name>
+      <introspection-schemas>*:spring_hibernate4_01</introspection-schemas>
+    </data-source>
+    <data-source name="criteria.cfg.xml/Hibernate" uuid="5922d120-42b0-46b8-9fe8-1032d2a6a88a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="fetching.cfg.xml/Hibernate" uuid="b96a8b0c-1990-4eae-aa2d-e695f249327a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="immutable.cfg.xml/Hibernate" uuid="a7266511-4cb0-4611-82cc-a7efd030f7c4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>sa</user-name>
+    </data-source>
+    <data-source name="fetching.cfg.xml/Hibernate" uuid="d3e94c89-b151-4207-8e84-5d912ef52ada">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="hibernate-annotation.cfg.xml/Hibernate" uuid="9b56e61c-3d28-4d81-b6c8-16dd92e0a96c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>myuser</user-name>
+    </data-source>
+    <data-source name="fetchingLazy.cfg.xml/Hibernate" uuid="b12859a7-8c66-4be4-a6fd-1c9446f43e80">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="fetchingLazy.cfg.xml/Hibernate" uuid="b2a1a97a-d1f5-4882-8eae-101316bf596c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+  </component>
+</project>
